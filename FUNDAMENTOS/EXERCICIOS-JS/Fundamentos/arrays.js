@@ -1,3 +1,5 @@
+// [] ARRAY
+
 const valores = [7.7, 7.9, 6.3, 9.2, 8.5]
 console.log(valores[0], valores[3])
 console.log(valores[4])
