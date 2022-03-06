@@ -9,3 +9,4 @@ const divisao = d / a
 const modulo = a % 2
 
 console.log (soma, subtracao, multiplicacao, divisao, modulo)
+
